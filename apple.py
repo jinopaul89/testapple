@@ -5,4 +5,5 @@ print ( c )
 
 f = 500
 g = 4556
-print (f + g)
+print (f * g)
+n = 34
